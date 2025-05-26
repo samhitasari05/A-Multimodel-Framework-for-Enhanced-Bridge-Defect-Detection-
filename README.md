@@ -1,4 +1,4 @@
-🏗️ Multimodal Bridge Defect Detection with Cross-Verification
+#🏗️ Multimodal Bridge Defect Detection with Cross-Verification
 
 Welcome to the repository for our IEEE-published pilot study on structural health monitoring of bridges using a multimodal data fusion framework. This project introduces a novel integration of Non-Destructive Evaluation (NDE) signals with adaptive image processing to accurately detect and verify bridge defects. The framework was developed, tested, and validated using real-world data sourced from the Federal Highway Administration’s InfoBridge platform.
 
